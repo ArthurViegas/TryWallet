@@ -6,5 +6,4 @@ Tecnologies:</br>
 - React-Redux </br>
 - HTML/CSS </br>
 
-Application: </br>
-<a href="https://try-wallet.vercel.app/"> TryWallet</a>
+Application:<a href="https://try-wallet.vercel.app/"> TryWallet</a>
